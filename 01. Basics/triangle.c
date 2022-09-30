@@ -1,7 +1,6 @@
 #include <stdio.h>
 
-void main()
-{
+void main() {
   double length, breadth, pm, area;
     
   printf("Enter the length of the triangle: ");
