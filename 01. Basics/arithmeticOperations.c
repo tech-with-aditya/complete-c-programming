@@ -1,7 +1,6 @@
 #include <stdio.h>
 
-void main()
-{
+void main() {
   int a, b, sum, dif, prod, rem;
   double quot;
     
