@@ -12,5 +12,5 @@ void main() {
   
   printf("\nThe length in millimeter is %.2lf mm", mm);
   printf("\nThe length in meter is %.2lf m", m);
-  printf("\nThe length in kilometer is %.2lf km", km);
+  printf("\nThe length in kilometer is %lf km", km);
 }
