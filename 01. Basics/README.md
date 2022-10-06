@@ -8,4 +8,9 @@
   <li>Data Types</li>
   <li>Arithmetic Operations</li>
   <li>Rectangle: perimeter &amp; area</li>
+  <li>Circle: diameter, circumference, &amp; area</li>
+  <li>Swap</li>
+  <li>Swap 2.0</li>
+  <li>Simple Interest</li>
+  <li>Compound Interest</li>
 </ul>
