@@ -1,1 +1,1 @@
-<h1>Sorting techniques</h1>
+<h1>Sorting</h1>
