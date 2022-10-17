@@ -1,1 +1,1 @@
-<h1>Fuctions and recursion</h1>
+<h1>Functions and recursion</h1>
